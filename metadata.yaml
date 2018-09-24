@@ -1,11 +1,16 @@
 _repo: Sewage-Disposal-Works-Their-Design-and-Construction_56735
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56735-h/images/cover.jpg
 creator:
   author:
     agent_name: Easdale, W. C.
     gutenberg_agent_id: '49007'
     url: http://www.gutenberg.org/2009/agents/49007
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56735#Sewage-Disposal-Works-Their-Design-and-Construction
 gutenberg_issued: '2018-03-13'
 gutenberg_type: Text
 identifiers:
